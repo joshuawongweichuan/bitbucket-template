@@ -8,12 +8,14 @@
 
 **Attendees:**
 
-* Client Name (Client)
-* Team Member 1 (Team Member)
-* Team Member 2 (Team Member)
-* Team Member 3 (Team Member)
-* Team Member 4 (Team Member)
-* Team Member 5 (Team Member)
+* Client Name (Cian Byrne)
+* Team Member 1 (Asmi Mitra)
+* Team Member 2 (Purva Patil)
+* Team Member 3 (Eden Cohen)
+* Team Member 4 (Joshua Wong)
+* Team Member 5 (Thomas Varvell)
+* Team Member 6 (Amanda Walpitage)
+* Team Member 6 (Harrison Glenn)
 
 **Applogies**
 
@@ -32,16 +34,19 @@ Meeting open at: XX:XX PM
 `why was the meeting called?  Was it just a collaboration / pair programming session?`
 `what work was planned to be done.`
 
+Planning meeting to schedule activities done prior to client meeting. These incuded detailed reading of project description, and formulating questions for the 
+client. 
 
 ## Item 2
 
 `what got completed`
-
+Group contracts and individual deeds got resolved. 
 
 ## Item 3
 
 `did the project objectives change and what were they?`
 
+Add details to the planning doc 
 | Name | Unikey | Video Link |
 |--|--|--|
 | Team Member 1 | unik1234 | Short List Item 1, Short List Item 2, Short List Item 3, etc |
@@ -56,4 +61,4 @@ Meeting open at: XX:XX PM
 `any questions or comments not covered by the above sections`
 
 
-Meeting closed at:  XX:XX PM
+Meeting closed at:  21:40 PM
